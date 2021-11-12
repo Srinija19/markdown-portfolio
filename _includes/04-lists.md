@@ -1,1 +1,3 @@
-Replace this with a list of your favorite things.
+Science and space 
+Art and peace 
+Interacting and learning 
