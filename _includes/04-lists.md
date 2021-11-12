@@ -1,2 +1,3 @@
--**Science and sapce**
--_Interacting and learning_
+- Science and sapce
+- Art and peace 
+- Interacting and learning
