@@ -1,1 +1,6 @@
-Replace this with your name, and include a header.
+# Markdown formatting 
+## Markdown formatting
+### Markdown formatting 
+#### Markdown formatting 
+##### Markdown formatting
+###### Markdown formatting
