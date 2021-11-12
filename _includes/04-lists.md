@@ -1,3 +1,2 @@
-- **Science and space** 
-- _Art and peace_
-- _Interacting **and** learning_
+-**Science and sapce**
+-_Interacting and learning_
